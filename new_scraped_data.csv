@@ -1,0 +1,827 @@
+id,star_name,radius,mass,distance
+0,Pisces,K0V+T7.5,0.798691378056286,
+1,Pisces,K0V+T7.5,0.798691378056286,
+2,Pisces,K0V+T7.5,0.798691378056286,
+3,Pisces,K0V+T7.5,0.798691378056286,
+4,Pisces,K0V+T7.5,0.798691378056286,
+5,Pisces,K0V+T7.5,0.798691378056286,
+6,Pisces,K0V+T7.5,0.798691378056286,
+7,Pisces,K0V+T7.5,0.798691378056286,
+8,Pisces,K0V+T7.5,0.798691378056286,
+9,Pisces,K0V+T7.5,0.798691378056286,
+10,Pisces,K0V+T7.5,0.798691378056286,
+11,Pisces,K0V+T7.5,0.798691378056286,
+12,Pisces,K0V+T7.5,0.798691378056286,
+13,Pisces,K0V+T7.5,0.798691378056286,
+14,Cancer,L8,,
+15,Cancer,L8,,
+16,Cancer,L8,,
+17,Cancer,L8,,
+18,Cancer,L8,,
+19,Cancer,L8,,
+20,Cancer,L8,,
+21,Cancer,L8,,
+22,Cancer,L8,,
+23,Cancer,L8,,
+24,Cancer,L8,,
+25,Cancer,L8,,
+26,Cancer,L8,,
+27,Cancer,L8,,
+28,Pictor,K2V,,
+29,Pictor,K2V,,
+30,Pictor,K2V,,
+31,Pictor,K2V,,
+32,Pictor,K2V,,
+33,Pictor,K2V,,
+34,Pictor,K2V,,
+35,Pictor,K2V,,
+36,Pictor,K2V,,
+37,Pictor,K2V,,
+38,Pictor,K2V,,
+39,Pictor,K2V,,
+40,Pictor,K2V,,
+41,Pictor,K2V,,
+42,Hydra,M1,,
+43,Hydra,M1,,
+44,Hydra,M1,,
+45,Hydra,M1,,
+46,Hydra,M1,,
+47,Hydra,M1,,
+48,Hydra,M1,,
+49,Hydra,M1,,
+50,Hydra,M1,,
+51,Hydra,M1,,
+52,Hydra,M1,,
+53,Hydra,M1,,
+54,Hydra,M1,,
+55,Hydra,M1,,
+56,Chamaeleon,K7,2.2,
+57,Chamaeleon,K7,2.2,
+58,Chamaeleon,K7,2.2,
+59,Chamaeleon,K7,2.2,
+60,Chamaeleon,K7,2.2,
+61,Chamaeleon,K7,2.2,
+62,Chamaeleon,K7,2.2,
+63,Chamaeleon,K7,2.2,
+64,Chamaeleon,K7,2.2,
+65,Chamaeleon,K7,2.2,
+66,Chamaeleon,K7,2.2,
+67,Chamaeleon,K7,2.2,
+68,Chamaeleon,K7,2.2,
+69,Chamaeleon,K7,2.2,
+70,Corona Borealis,L8,,
+71,Corona Borealis,L8,,
+72,Corona Borealis,L8,,
+73,Corona Borealis,L8,,
+74,Corona Borealis,L8,,
+75,Corona Borealis,L8,,
+76,Corona Borealis,L8,,
+77,Corona Borealis,L8,,
+78,Corona Borealis,L8,,
+79,Corona Borealis,L8,,
+80,Corona Borealis,L8,,
+81,Corona Borealis,L8,,
+82,Corona Borealis,L8,,
+83,Corona Borealis,L8,,
+84,Ursa Major,M2.5,,
+85,Ursa Major,M2.5,,
+86,Ursa Major,M2.5,,
+87,Ursa Major,M2.5,,
+88,Ursa Major,M2.5,,
+89,Ursa Major,M2.5,,
+90,Ursa Major,M2.5,,
+91,Ursa Major,M2.5,,
+92,Ursa Major,M2.5,,
+93,Ursa Major,M2.5,,
+94,Ursa Major,M2.5,,
+95,Ursa Major,M2.5,,
+96,Ursa Major,M2.5,,
+97,Ursa Major,M2.5,,
+98,Boötes,D4A+L4,,
+99,Boötes,D4A+L4,,
+100,Boötes,D4A+L4,,
+101,Boötes,D4A+L4,,
+102,Boötes,D4A+L4,,
+103,Boötes,D4A+L4,,
+104,Boötes,D4A+L4,,
+105,Boötes,D4A+L4,,
+106,Boötes,D4A+L4,,
+107,Boötes,D4A+L4,,
+108,Boötes,D4A+L4,,
+109,Boötes,D4A+L4,,
+110,Boötes,D4A+L4,,
+111,Boötes,D4A+L4,,
+112,Libra,K4V+M1V+M3V,,
+113,Libra,K4V+M1V+M3V,,
+114,Libra,K4V+M1V+M3V,,
+115,Libra,K4V+M1V+M3V,,
+116,Libra,K4V+M1V+M3V,,
+117,Libra,K4V+M1V+M3V,,
+118,Libra,K4V+M1V+M3V,,
+119,Libra,K4V+M1V+M3V,,
+120,Libra,K4V+M1V+M3V,,
+121,Libra,K4V+M1V+M3V,,
+122,Libra,K4V+M1V+M3V,,
+123,Libra,K4V+M1V+M3V,,
+124,Libra,K4V+M1V+M3V,,
+125,Libra,K4V+M1V+M3V,,
+126,Pisces,M3V,,
+127,Pisces,M3V,,
+128,Pisces,M3V,,
+129,Pisces,M3V,,
+130,Pisces,M3V,,
+131,Pisces,M3V,,
+132,Pisces,M3V,,
+133,Pisces,M3V,,
+134,Pisces,M3V,,
+135,Pisces,M3V,,
+136,Pisces,M3V,,
+137,Pisces,M3V,,
+138,Pisces,M3V,,
+139,Pisces,M3V,,
+140,Ursa Major,F7IV,,
+141,Ursa Major,F7IV,,
+142,Ursa Major,F7IV,,
+143,Ursa Major,F7IV,,
+144,Ursa Major,F7IV,,
+145,Ursa Major,F7IV,,
+146,Ursa Major,F7IV,,
+147,Ursa Major,F7IV,,
+148,Ursa Major,F7IV,,
+149,Ursa Major,F7IV,,
+150,Ursa Major,F7IV,,
+151,Ursa Major,F7IV,,
+152,Ursa Major,F7IV,,
+153,Ursa Major,F7IV,,
+154,Musca,B9Vne,,
+155,Musca,B9Vne,,
+156,Musca,B9Vne,,
+157,Musca,B9Vne,,
+158,Musca,B9Vne,,
+159,Musca,B9Vne,,
+160,Musca,B9Vne,,
+161,Musca,B9Vne,,
+162,Musca,B9Vne,,
+163,Musca,B9Vne,,
+164,Musca,B9Vne,,
+165,Musca,B9Vne,,
+166,Musca,B9Vne,,
+167,Musca,B9Vne,,
+168,Pegasus,T2.5,1.01,
+169,Pegasus,T2.5,1.01,
+170,Pegasus,T2.5,1.01,
+171,Pegasus,T2.5,1.01,
+172,Pegasus,T2.5,1.01,
+173,Pegasus,T2.5,1.01,
+174,Pegasus,T2.5,1.01,
+175,Pegasus,T2.5,1.01,
+176,Pegasus,T2.5,1.01,
+177,Pegasus,T2.5,1.01,
+178,Pegasus,T2.5,1.01,
+179,Pegasus,T2.5,1.01,
+180,Pegasus,T2.5,1.01,
+181,Pegasus,T2.5,1.01,
+182,Sculptor,M8.5V,,
+183,Sculptor,M8.5V,,
+184,Sculptor,M8.5V,,
+185,Sculptor,M8.5V,,
+186,Sculptor,M8.5V,,
+187,Sculptor,M8.5V,,
+188,Sculptor,M8.5V,,
+189,Sculptor,M8.5V,,
+190,Sculptor,M8.5V,,
+191,Sculptor,M8.5V,,
+192,Sculptor,M8.5V,,
+193,Sculptor,M8.5V,,
+194,Sculptor,M8.5V,,
+195,Sculptor,M8.5V,,
+196,Scorpius,M7,,
+197,Scorpius,M7,,
+198,Scorpius,M7,,
+199,Scorpius,M7,,
+200,Scorpius,M7,,
+201,Scorpius,M7,,
+202,Scorpius,M7,,
+203,Scorpius,M7,,
+204,Scorpius,M7,,
+205,Scorpius,M7,,
+206,Scorpius,M7,,
+207,Scorpius,M7,,
+208,Scorpius,M7,,
+209,Scorpius,M7,,
+210,Sculptor,DA,,0.0803
+211,Sculptor,DA,,0.0803
+212,Sculptor,DA,,0.0803
+213,Sculptor,DA,,0.0803
+214,Sculptor,DA,,0.0803
+215,Sculptor,DA,,0.0803
+216,Sculptor,DA,,0.0803
+217,Sculptor,DA,,0.0803
+218,Sculptor,DA,,0.0803
+219,Sculptor,DA,,0.0803
+220,Sculptor,DA,,0.0803
+221,Sculptor,DA,,0.0803
+222,Sculptor,DA,,0.0803
+223,Sculptor,DA,,0.0803
+224,Pictor,M2,,1.3283
+225,Pictor,M2,,1.3283
+226,Pictor,M2,,1.3283
+227,Pictor,M2,,1.3283
+228,Pictor,M2,,1.3283
+229,Pictor,M2,,1.3283
+230,Pictor,M2,,1.3283
+231,Pictor,M2,,1.3283
+232,Pictor,M2,,1.3283
+233,Pictor,M2,,1.3283
+234,Pictor,M2,,1.3283
+235,Pictor,M2,,1.3283
+236,Pictor,M2,,1.3283
+237,Pictor,M2,,1.3283
+238,Ophiuchus,B5VI,,2.391
+239,Ophiuchus,B5VI,,2.391
+240,Ophiuchus,B5VI,,2.391
+241,Ophiuchus,B5VI,,2.391
+242,Ophiuchus,B5VI,,2.391
+243,Ophiuchus,B5VI,,2.391
+244,Ophiuchus,B5VI,,2.391
+245,Ophiuchus,B5VI,,2.391
+246,Ophiuchus,B5VI,,2.391
+247,Ophiuchus,B5VI,,2.391
+248,Ophiuchus,B5VI,,2.391
+249,Ophiuchus,B5VI,,2.391
+250,Ophiuchus,B5VI,,2.391
+251,Ophiuchus,B5VI,,2.391
+252,Monoceros,F7V,1.12,3.06036
+253,Monoceros,F7V,1.12,3.06036
+254,Monoceros,F7V,1.12,3.06036
+255,Monoceros,F7V,1.12,3.06036
+256,Monoceros,F7V,1.12,3.06036
+257,Monoceros,F7V,1.12,3.06036
+258,Monoceros,F7V,1.12,3.06036
+259,Monoceros,F7V,1.12,3.06036
+260,Monoceros,F7V,1.12,3.06036
+261,Monoceros,F7V,1.12,3.06036
+262,Monoceros,F7V,1.12,3.06036
+263,Monoceros,F7V,1.12,3.06036
+264,Monoceros,F7V,1.12,3.06036
+265,Monoceros,F7V,1.12,3.06036
+266,Ursa Major,F8.5V,,3.98
+267,Ursa Major,F8.5V,,3.98
+268,Ursa Major,F8.5V,,3.98
+269,Ursa Major,F8.5V,,3.98
+270,Ursa Major,F8.5V,,3.98
+271,Ursa Major,F8.5V,,3.98
+272,Ursa Major,F8.5V,,3.98
+273,Ursa Major,F8.5V,,3.98
+274,Ursa Major,F8.5V,,3.98
+275,Ursa Major,F8.5V,,3.98
+276,Ursa Major,F8.5V,,3.98
+277,Ursa Major,F8.5V,,3.98
+278,Ursa Major,F8.5V,,3.98
+279,Ursa Major,F8.5V,,3.98
+280,Andromeda,F8V,,237.7
+281,Andromeda,F8V,,237.7
+282,Andromeda,F8V,,237.7
+283,Andromeda,F8V,,237.7
+284,Andromeda,F8V,,237.7
+285,Andromeda,F8V,,237.7
+286,Andromeda,F8V,,237.7
+287,Andromeda,F8V,,237.7
+288,Andromeda,F8V,,237.7
+289,Andromeda,F8V,,237.7
+290,Andromeda,F8V,,237.7
+291,Andromeda,F8V,,237.7
+292,Andromeda,F8V,,237.7
+293,Andromeda,F8V,,237.7
+294,Lyra,G8V,,96
+295,Lyra,G8V,,96
+296,Lyra,G8V,,96
+297,Lyra,G8V,,96
+298,Lyra,G8V,,96
+299,Lyra,G8V,,96
+300,Lyra,G8V,,96
+301,Lyra,G8V,,96
+302,Lyra,G8V,,96
+303,Lyra,G8V,,96
+304,Lyra,G8V,,96
+305,Lyra,G8V,,96
+306,Lyra,G8V,,96
+307,Lyra,G8V,,96
+308,Virgo,K0V,,103.22
+309,Virgo,K0V,,103.22
+310,Virgo,K0V,,103.22
+311,Virgo,K0V,,103.22
+312,Virgo,K0V,,103.22
+313,Virgo,K0V,,103.22
+314,Virgo,K0V,,103.22
+315,Virgo,K0V,,103.22
+316,Virgo,K0V,,103.22
+317,Virgo,K0V,,103.22
+318,Virgo,K0V,,103.22
+319,Virgo,K0V,,103.22
+320,Virgo,K0V,,103.22
+321,Virgo,K0V,,103.22
+322,Eridanus,K5V,,240.92
+323,Eridanus,K5V,,240.92
+324,Eridanus,K5V,,240.92
+325,Eridanus,K5V,,240.92
+326,Eridanus,K5V,,240.92
+327,Eridanus,K5V,,240.92
+328,Eridanus,K5V,,240.92
+329,Eridanus,K5V,,240.92
+330,Eridanus,K5V,,240.92
+331,Eridanus,K5V,,240.92
+332,Eridanus,K5V,,240.92
+333,Eridanus,K5V,,240.92
+334,Eridanus,K5V,,240.92
+335,Eridanus,K5V,,240.92
+336,Canes Venatici,K3V,,270.04
+337,Canes Venatici,K3V,,270.04
+338,Canes Venatici,K3V,,270.04
+339,Canes Venatici,K3V,,270.04
+340,Canes Venatici,K3V,,270.04
+341,Canes Venatici,K3V,,270.04
+342,Canes Venatici,K3V,,270.04
+343,Canes Venatici,K3V,,270.04
+344,Canes Venatici,K3V,,270.04
+345,Canes Venatici,K3V,,270.04
+346,Canes Venatici,K3V,,270.04
+347,Canes Venatici,K3V,,270.04
+348,Canes Venatici,K3V,,270.04
+349,Canes Venatici,K3V,,270.04
+350,Hydra,G1V,,298.25
+351,Hydra,G1V,,298.25
+352,Hydra,G1V,,298.25
+353,Hydra,G1V,,298.25
+354,Hydra,G1V,,298.25
+355,Hydra,G1V,,298.25
+356,Hydra,G1V,,298.25
+357,Hydra,G1V,,298.25
+358,Hydra,G1V,,298.25
+359,Hydra,G1V,,298.25
+360,Hydra,G1V,,298.25
+361,Hydra,G1V,,298.25
+362,Hydra,G1V,,298.25
+363,Hydra,G1V,,298.25
+364,Gemini,K2III,,305
+365,Gemini,K2III,,305
+366,Gemini,K2III,,305
+367,Gemini,K2III,,305
+368,Gemini,K2III,,305
+369,Gemini,K2III,,305
+370,Gemini,K2III,,305
+371,Gemini,K2III,,305
+372,Gemini,K2III,,305
+373,Gemini,K2III,,305
+374,Gemini,K2III,,305
+375,Gemini,K2III,,305
+376,Gemini,K2III,,305
+377,Gemini,K2III,,305
+378,Ursa Major,G4,,428.5
+379,Ursa Major,G4,,428.5
+380,Ursa Major,G4,,428.5
+381,Ursa Major,G4,,428.5
+382,Ursa Major,G4,,428.5
+383,Ursa Major,G4,,428.5
+384,Ursa Major,G4,,428.5
+385,Ursa Major,G4,,428.5
+386,Ursa Major,G4,,428.5
+387,Ursa Major,G4,,428.5
+388,Ursa Major,G4,,428.5
+389,Ursa Major,G4,,428.5
+390,Ursa Major,G4,,428.5
+391,Ursa Major,G4,,428.5
+392,Aquarius,K4V,,454.66
+393,Aquarius,K4V,,454.66
+394,Aquarius,K4V,,454.66
+395,Aquarius,K4V,,454.66
+396,Aquarius,K4V,,454.66
+397,Aquarius,K4V,,454.66
+398,Aquarius,K4V,,454.66
+399,Aquarius,K4V,,454.66
+400,Aquarius,K4V,,454.66
+401,Aquarius,K4V,,454.66
+402,Aquarius,K4V,,454.66
+403,Aquarius,K4V,,454.66
+404,Aquarius,K4V,,454.66
+405,Aquarius,K4V,,454.66
+406,Perseus,G5V,,465.1
+407,Perseus,G5V,,465.1
+408,Perseus,G5V,,465.1
+409,Perseus,G5V,,465.1
+410,Perseus,G5V,,465.1
+411,Perseus,G5V,,465.1
+412,Perseus,G5V,,465.1
+413,Perseus,G5V,,465.1
+414,Perseus,G5V,,465.1
+415,Perseus,G5V,,465.1
+416,Perseus,G5V,,465.1
+417,Perseus,G5V,,465.1
+418,Perseus,G5V,,465.1
+419,Perseus,G5V,,465.1
+420,Triangulum,K2II,,471.6
+421,Triangulum,K2II,,471.6
+422,Triangulum,K2II,,471.6
+423,Triangulum,K2II,,471.6
+424,Triangulum,K2II,,471.6
+425,Triangulum,K2II,,471.6
+426,Triangulum,K2II,,471.6
+427,Triangulum,K2II,,471.6
+428,Triangulum,K2II,,471.6
+429,Triangulum,K2II,,471.6
+430,Triangulum,K2II,,471.6
+431,Triangulum,K2II,,471.6
+432,Triangulum,K2II,,471.6
+433,Triangulum,K2II,,471.6
+434,Fornax,K2V,,554.67
+435,Fornax,K2V,,554.67
+436,Fornax,K2V,,554.67
+437,Fornax,K2V,,554.67
+438,Fornax,K2V,,554.67
+439,Fornax,K2V,,554.67
+440,Fornax,K2V,,554.67
+441,Fornax,K2V,,554.67
+442,Fornax,K2V,,554.67
+443,Fornax,K2V,,554.67
+444,Fornax,K2V,,554.67
+445,Fornax,K2V,,554.67
+446,Fornax,K2V,,554.67
+447,Fornax,K2V,,554.67
+448,Andromeda,F7V,,639
+449,Andromeda,F7V,,639
+450,Andromeda,F7V,,639
+451,Andromeda,F7V,,639
+452,Andromeda,F7V,,639
+453,Andromeda,F7V,,639
+454,Andromeda,F7V,,639
+455,Andromeda,F7V,,639
+456,Andromeda,F7V,,639
+457,Andromeda,F7V,,639
+458,Andromeda,F7V,,639
+459,Andromeda,F7V,,639
+460,Andromeda,F7V,,639
+461,Andromeda,F7V,,639
+462,Crux,MIII?,,677.8
+463,Crux,MIII?,,677.8
+464,Crux,MIII?,,677.8
+465,Crux,MIII?,,677.8
+466,Crux,MIII?,,677.8
+467,Crux,MIII?,,677.8
+468,Crux,MIII?,,677.8
+469,Crux,MIII?,,677.8
+470,Crux,MIII?,,677.8
+471,Crux,MIII?,,677.8
+472,Crux,MIII?,,677.8
+473,Crux,MIII?,,677.8
+474,Crux,MIII?,,677.8
+475,Crux,MIII?,,677.8
+476,Boötes,M3V,,870[7]
+477,Boötes,M3V,,870[7]
+478,Boötes,M3V,,870[7]
+479,Boötes,M3V,,870[7]
+480,Boötes,M3V,,870[7]
+481,Boötes,M3V,,870[7]
+482,Boötes,M3V,,870[7]
+483,Boötes,M3V,,870[7]
+484,Boötes,M3V,,870[7]
+485,Boötes,M3V,,870[7]
+486,Boötes,M3V,,870[7]
+487,Boötes,M3V,,870[7]
+488,Boötes,M3V,,870[7]
+489,Boötes,M3V,,870[7]
+490,Perseus,G2V,,1471.7
+491,Perseus,G2V,,1471.7
+492,Perseus,G2V,,1471.7
+493,Perseus,G2V,,1471.7
+494,Perseus,G2V,,1471.7
+495,Perseus,G2V,,1471.7
+496,Perseus,G2V,,1471.7
+497,Perseus,G2V,,1471.7
+498,Perseus,G2V,,1471.7
+499,Perseus,G2V,,1471.7
+500,Perseus,G2V,,1471.7
+501,Perseus,G2V,,1471.7
+502,Perseus,G2V,,1471.7
+503,Perseus,G2V,,1471.7
+504,Chamaeleon,M6.5,,1590.9
+505,Chamaeleon,M6.5,,1590.9
+506,Chamaeleon,M6.5,,1590.9
+507,Chamaeleon,M6.5,,1590.9
+508,Chamaeleon,M6.5,,1590.9
+509,Chamaeleon,M6.5,,1590.9
+510,Chamaeleon,M6.5,,1590.9
+511,Chamaeleon,M6.5,,1590.9
+512,Chamaeleon,M6.5,,1590.9
+513,Chamaeleon,M6.5,,1590.9
+514,Chamaeleon,M6.5,,1590.9
+515,Chamaeleon,M6.5,,1590.9
+516,Chamaeleon,M6.5,,1590.9
+517,Chamaeleon,M6.5,,1590.9
+518,Monoceros,G2V,,1675
+519,Monoceros,G2V,,1675
+520,Monoceros,G2V,,1675
+521,Monoceros,G2V,,1675
+522,Monoceros,G2V,,1675
+523,Monoceros,G2V,,1675
+524,Monoceros,G2V,,1675
+525,Monoceros,G2V,,1675
+526,Monoceros,G2V,,1675
+527,Monoceros,G2V,,1675
+528,Monoceros,G2V,,1675
+529,Monoceros,G2V,,1675
+530,Monoceros,G2V,,1675
+531,Monoceros,G2V,,1675
+532,Serpens,G5,,1739.5
+533,Serpens,G5,,1739.5
+534,Serpens,G5,,1739.5
+535,Serpens,G5,,1739.5
+536,Serpens,G5,,1739.5
+537,Serpens,G5,,1739.5
+538,Serpens,G5,,1739.5
+539,Serpens,G5,,1739.5
+540,Serpens,G5,,1739.5
+541,Serpens,G5,,1739.5
+542,Serpens,G5,,1739.5
+543,Serpens,G5,,1739.5
+544,Serpens,G5,,1739.5
+545,Serpens,G5,,1739.5
+546,Orion,G4IV,,2174.3
+547,Orion,G4IV,,2174.3
+548,Orion,G4IV,,2174.3
+549,Orion,G4IV,,2174.3
+550,Orion,G4IV,,2174.3
+551,Orion,G4IV,,2174.3
+552,Orion,G4IV,,2174.3
+553,Orion,G4IV,,2174.3
+554,Orion,G4IV,,2174.3
+555,Orion,G4IV,,2174.3
+556,Orion,G4IV,,2174.3
+557,Orion,G4IV,,2174.3
+558,Orion,G4IV,,2174.3
+559,Orion,G4IV,,2174.3
+560,Indus,K5V,,5478.75
+561,Indus,K5V,,5478.75
+562,Indus,K5V,,5478.75
+563,Indus,K5V,,5478.75
+564,Indus,K5V,,5478.75
+565,Indus,K5V,,5478.75
+566,Indus,K5V,,5478.75
+567,Indus,K5V,,5478.75
+568,Indus,K5V,,5478.75
+569,Indus,K5V,,5478.75
+570,Indus,K5V,,5478.75
+571,Indus,K5V,,5478.75
+572,Indus,K5V,,5478.75
+573,Indus,K5V,,5478.75
+574,Virgo,sdB+M,,5786
+575,Virgo,sdB+M,,5786
+576,Virgo,sdB+M,,5786
+577,Virgo,sdB+M,,5786
+578,Virgo,sdB+M,,5786
+579,Virgo,sdB+M,,5786
+580,Virgo,sdB+M,,5786
+581,Virgo,sdB+M,,5786
+582,Virgo,sdB+M,,5786
+583,Virgo,sdB+M,,5786
+584,Virgo,sdB+M,,5786
+585,Virgo,sdB+M,,5786
+586,Virgo,sdB+M,,5786
+587,Virgo,sdB+M,,5786
+588,Virgo,P,1.1,33081
+589,Virgo,P,1.1,33081
+590,Virgo,P,1.1,33081
+591,Virgo,P,1.1,33081
+592,Virgo,P,1.1,33081
+593,Virgo,P,1.1,33081
+594,Virgo,P,1.1,33081
+595,Virgo,P,1.1,33081
+596,Virgo,P,1.1,33081
+597,Virgo,P,1.1,33081
+598,Virgo,P,1.1,33081
+599,Virgo,P,1.1,33081
+600,Virgo,P,1.1,33081
+601,Virgo,P,1.1,33081
+602,Sculptor,G5V,,73000
+603,Sculptor,G5V,,73000
+604,Sculptor,G5V,,73000
+605,Sculptor,G5V,,73000
+606,Sculptor,G5V,,73000
+607,Sculptor,G5V,,73000
+608,Sculptor,G5V,,73000
+609,Sculptor,G5V,,73000
+610,Sculptor,G5V,,73000
+611,Sculptor,G5V,,73000
+612,Sculptor,G5V,,73000
+613,Sculptor,G5V,,73000
+614,Sculptor,G5V,,73000
+615,Sculptor,G5V,,73000
+616,Lepus,M1V,,73050
+617,Lepus,M1V,,73050
+618,Lepus,M1V,,73050
+619,Lepus,M1V,,73050
+620,Lepus,M1V,,73050
+621,Lepus,M1V,,73050
+622,Lepus,M1V,,73050
+623,Lepus,M1V,,73050
+624,Lepus,M1V,,73050
+625,Lepus,M1V,,73050
+626,Lepus,M1V,,73050
+627,Lepus,M1V,,73050
+628,Lepus,M1V,,73050
+629,Lepus,M1V,,73050
+630,Octans,L3γ,,328725000
+631,Octans,L3γ,,328725000
+632,Octans,L3γ,,328725000
+633,Octans,L3γ,,328725000
+634,Octans,L3γ,,328725000
+635,Octans,L3γ,,328725000
+636,Octans,L3γ,,328725000
+637,Octans,L3γ,,328725000
+638,Octans,L3γ,,328725000
+639,Octans,L3γ,,328725000
+640,Octans,L3γ,,328725000
+641,Octans,L3γ,,328725000
+642,Octans,L3γ,,328725000
+643,Octans,L3γ,,328725000
+644,Indus,K5V,,1532899.8
+645,Indus,K5V,,1532899.8
+646,Indus,K5V,,1532899.8
+647,Indus,K5V,,1532899.8
+648,Indus,K5V,,1532899.8
+649,Indus,K5V,,1532899.8
+650,Indus,K5V,,1532899.8
+651,Indus,K5V,,1532899.8
+652,Indus,K5V,,1532899.8
+653,Indus,K5V,,1532899.8
+654,Indus,K5V,,1532899.8
+655,Indus,K5V,,1532899.8
+656,Indus,K5V,,1532899.8
+657,Indus,K5V,,1532899.8
+658,Apus,G3V,,1951
+659,Apus,G3V,,1951
+660,Apus,G3V,,1951
+661,Apus,G3V,,1951
+662,Apus,G3V,,1951
+663,Apus,G3V,,1951
+664,Apus,G3V,,1951
+665,Apus,G3V,,1951
+666,Apus,G3V,,1951
+667,Apus,G3V,,1951
+668,Apus,G3V,,1951
+669,Apus,G3V,,1951
+670,Apus,G3V,,1951
+671,Apus,G3V,,1951
+672,Serpens,F9V,,1209
+673,Serpens,F9V,,1209
+674,Serpens,F9V,,1209
+675,Serpens,F9V,,1209
+676,Serpens,F9V,,1209
+677,Serpens,F9V,,1209
+678,Serpens,F9V,,1209
+679,Serpens,F9V,,1209
+680,Serpens,F9V,,1209
+681,Serpens,F9V,,1209
+682,Serpens,F9V,,1209
+683,Serpens,F9V,,1209
+684,Serpens,F9V,,1209
+685,Serpens,F9V,,1209
+686,Corona Borealis,G0V,,147.94
+687,Corona Borealis,G0V,,147.94
+688,Corona Borealis,G0V,,147.94
+689,Corona Borealis,G0V,,147.94
+690,Corona Borealis,G0V,,147.94
+691,Corona Borealis,G0V,,147.94
+692,Corona Borealis,G0V,,147.94
+693,Corona Borealis,G0V,,147.94
+694,Corona Borealis,G0V,,147.94
+695,Corona Borealis,G0V,,147.94
+696,Corona Borealis,G0V,,147.94
+697,Corona Borealis,G0V,,147.94
+698,Corona Borealis,G0V,,147.94
+699,Corona Borealis,G0V,,147.94
+700,Lupus,K7eV,1.8,
+701,Lupus,K7eV,1.8,
+702,Lupus,K7eV,1.8,
+703,Lupus,K7eV,1.8,
+704,Lupus,K7eV,1.8,
+705,Lupus,K7eV,1.8,
+706,Lupus,K7eV,1.8,
+707,Lupus,K7eV,1.8,
+708,Lupus,K7eV,1.8,
+709,Lupus,K7eV,1.8,
+710,Lupus,K7eV,1.8,
+711,Lupus,K7eV,1.8,
+712,Lupus,K7eV,1.8,
+713,Lupus,K7eV,1.8,
+714,Scorpius,K2V,,8.428198
+715,Scorpius,K2V,,8.428198
+716,Scorpius,K2V,,8.428198
+717,Scorpius,K2V,,8.428198
+718,Scorpius,K2V,,8.428198
+719,Scorpius,K2V,,8.428198
+720,Scorpius,K2V,,8.428198
+721,Scorpius,K2V,,8.428198
+722,Scorpius,K2V,,8.428198
+723,Scorpius,K2V,,8.428198
+724,Scorpius,K2V,,8.428198
+725,Scorpius,K2V,,8.428198
+726,Scorpius,K2V,,8.428198
+727,Scorpius,K2V,,8.428198
+728,Ophiuchus,K0III,,536
+729,Ophiuchus,K0III,,536
+730,Ophiuchus,K0III,,536
+731,Ophiuchus,K0III,,536
+732,Ophiuchus,K0III,,536
+733,Ophiuchus,K0III,,536
+734,Ophiuchus,K0III,,536
+735,Ophiuchus,K0III,,536
+736,Ophiuchus,K0III,,536
+737,Ophiuchus,K0III,,536
+738,Ophiuchus,K0III,,536
+739,Ophiuchus,K0III,,536
+740,Ophiuchus,K0III,,536
+741,Ophiuchus,K0III,,536
+742,Telescopium,G4IV,,108.55
+743,Telescopium,G4IV,,108.55
+744,Telescopium,G4IV,,108.55
+745,Telescopium,G4IV,,108.55
+746,Telescopium,G4IV,,108.55
+747,Telescopium,G4IV,,108.55
+748,Telescopium,G4IV,,108.55
+749,Telescopium,G4IV,,108.55
+750,Telescopium,G4IV,,108.55
+751,Telescopium,G4IV,,108.55
+752,Telescopium,G4IV,,108.55
+753,Telescopium,G4IV,,108.55
+754,Telescopium,G4IV,,108.55
+755,Telescopium,G4IV,,108.55
+756,Pavo,M8.5V,,
+757,Pavo,M8.5V,,
+758,Pavo,M8.5V,,
+759,Pavo,M8.5V,,
+760,Pavo,M8.5V,,
+761,Pavo,M8.5V,,
+762,Pavo,M8.5V,,
+763,Pavo,M8.5V,,
+764,Pavo,M8.5V,,
+765,Pavo,M8.5V,,
+766,Pavo,M8.5V,,
+767,Pavo,M8.5V,,
+768,Pavo,M8.5V,,
+769,Pavo,M8.5V,,
+770,Aquila,G0V,1.01,4.2568
+771,Aquila,G0V,1.01,4.2568
+772,Aquila,G0V,1.01,4.2568
+773,Aquila,G0V,1.01,4.2568
+774,Aquila,G0V,1.01,4.2568
+775,Aquila,G0V,1.01,4.2568
+776,Aquila,G0V,1.01,4.2568
+777,Aquila,G0V,1.01,4.2568
+778,Aquila,G0V,1.01,4.2568
+779,Aquila,G0V,1.01,4.2568
+780,Aquila,G0V,1.01,4.2568
+781,Aquila,G0V,1.01,4.2568
+782,Aquila,G0V,1.01,4.2568
+783,Aquila,G0V,1.01,4.2568
+784,Sagitta,G1V,,
+785,Sagitta,G1V,,
+786,Sagitta,G1V,,
+787,Sagitta,G1V,,
+788,Sagitta,G1V,,
+789,Sagitta,G1V,,
+790,Sagitta,G1V,,
+791,Sagitta,G1V,,
+792,Sagitta,G1V,,
+793,Sagitta,G1V,,
+794,Sagitta,G1V,,
+795,Sagitta,G1V,,
+796,Sagitta,G1V,,
+797,Sagitta,G1V,,
+798,Delphinus,A3V,,
+799,Delphinus,A3V,,
+800,Delphinus,A3V,,
+801,Delphinus,A3V,,
+802,Delphinus,A3V,,
+803,Delphinus,A3V,,
+804,Delphinus,A3V,,
+805,Delphinus,A3V,,
+806,Delphinus,A3V,,
+807,Delphinus,A3V,,
+808,Delphinus,A3V,,
+809,Delphinus,A3V,,
+810,Delphinus,A3V,,
+811,Delphinus,A3V,,
+812,Capricornus,G6V,,255.87
+813,Capricornus,G6V,,255.87
+814,Capricornus,G6V,,255.87
+815,Capricornus,G6V,,255.87
+816,Capricornus,G6V,,255.87
+817,Capricornus,G6V,,255.87
+818,Capricornus,G6V,,255.87
+819,Capricornus,G6V,,255.87
+820,Capricornus,G6V,,255.87
+821,Capricornus,G6V,,255.87
+822,Capricornus,G6V,,255.87
+823,Capricornus,G6V,,255.87
+824,Capricornus,G6V,,255.87
+825,Capricornus,G6V,,255.87
